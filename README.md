@@ -38,6 +38,7 @@ In Development
 
 Feel free to reach out to me through:
 - Discord: [marko.js]
+- Email: [pianomarco38@gmail.com]
 
 ## 🚀 Let's Collaborate
 
