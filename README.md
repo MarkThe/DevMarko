@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm [Marko], a passionate developer who loves to b
 - 🔭 I’m searching for a job as a [Developer].
 - 🌱 I’m currently learning [Android Development].
 - 💬 Ask me about anything related to [Devloping/Music].
-- 📫 How to reach me: [discord/marko.js].
 - 😄 Pronouns: [He/Him].
 
 ## 💻 Technologies & Tools
@@ -22,6 +21,8 @@ Welcome to my GitHub profile! I'm [Marko], a passionate developer who loves to b
 - .NET
 - Xamarin
 - Xampp
+- Mysql
+- Postgresql
   
 
 ### DevOps & Deployment
