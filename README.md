@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm [Marko], a passionate developer who loves to b
 
 ### DevOps & Deployment
 - Docker
-- Kubernetes
 - AWS
 - Azure
 
